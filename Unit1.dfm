@@ -238,12 +238,10 @@ object Form1: TForm1
     Connected = True
     HostName = 'Localhost'
     Port = 3306
-    Database = 'db_visual2'
+    Database = 'kustomer'
     User = 'root'
     Protocol = 'mysql'
-    LibraryLocation = 
-      'C:\Program Files (x86)\Borland\Delphi7\Projects\Koneksi Zeos\lib' +
-      'mysql.dll'
+    LibraryLocation = 'C:\Users\ASUS\Documents\Visual-Zeos\libmysql.dll'
     Left = 992
     Top = 328
   end
